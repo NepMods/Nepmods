@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **nalyakoff@gmail.com**
 
-- ⚡ Fun fact **I Am A Alien**
+- ⚡ Fun fact **I Am An Alien**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
