@@ -24,7 +24,7 @@
 <p align="left">
 <a href="https://twitter.com/nepmods" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nepmods" height="30" width="40" /></a>
 <a href="https://youtube.com/channel/UCbw-Tpgym3oafdBtH7spaAw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nepmods hacks" height="30" width="40" /></a>
-<a href="discordapp.com/users/964559141467213954" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nepmods" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/964559141467213954" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nepmods" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
