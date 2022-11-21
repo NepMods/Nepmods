@@ -13,7 +13,7 @@
 - 📫 How to reach me **nalyakoff@gmail.com**
 
 - ⚡ Fun fact **I Am An Alien**
-<H1 align="center">I Love Platinmods.com</h1>
+
 <H1>My Stats</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nepmods&label=Profile%20views&color=0e75b6&style=flat" alt="NepMods" /> </p>
 
