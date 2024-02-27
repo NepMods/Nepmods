@@ -1,16 +1,14 @@
 <h1 align="center">Hi 👋, I'm Nepmods</h1>
-<h3 align="center">A Small Modder From Nepal</h3>
+<h3 align="center">A Small Programmer From Nepal</h3>
 <H1> My Real Name Is Arjun</h1>
 
-- 🔭 I’m currently working on [Esp, Imgui, And Normal Other mods](https://github.com/NepMods)
+- 🔭 I’m currently working on [Making Compilers / Interpreters](https://github.com/NepMods)
 
 - 👨‍💻 All of my projects are available at [https://github.com/nepmods](https://github.com/nepmods)
 
 - 📝 I regularly post mods on [https://platinmods.com](https://platinmods.com)
 
-- 💬 Ask me about **Modding**
-
-- 📫 How to reach me **nalyakoff@gmail.com**
+- 📫 How to reach me **nepmods@proton.me**
 
 - ⚡ Fun fact **I Am An Alien**
 
