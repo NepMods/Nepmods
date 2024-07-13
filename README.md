@@ -2,11 +2,9 @@
 <h3 align="center">A Small Programmer From Nepal</h3>
 <H1> My Real Name Is Arjun</h1>
 
-- 🔭 I’m currently working on [Making Compilers / Interpreters](https://github.com/NepMods)
+- 🔭 I’m currently working on [DAMNN RANDOM SHITS](https://github.com/NepMods)
 
 - 👨‍💻 All of my projects are available at [https://github.com/nepmods](https://github.com/nepmods)
-
-- 📝 I regularly post mods on [https://platinmods.com](https://platinmods.com)
 
 - 📫 How to reach me **nepmods@proton.me**
 
