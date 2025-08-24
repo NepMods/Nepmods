@@ -94,7 +94,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NepMods&layout=compact&theme=radical" width="300"/>
 </p>
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NepMods&theme=radical&margin-w=10" width="80%"/></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="http://trophygh.kolioaris.xyz?username=NepMods&theme=radical&margin-w=10" width="80%"/></a>
 </p>
 
 <!-- Connect -->
