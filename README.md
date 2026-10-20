@@ -1,11 +1,11 @@
-
 <!-- Cute Divider -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=60&section=header&animation=twinkling" width="100%" />
 </p>
+
 <!-- Animated Welcome Typing Text -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=900&color=F97CA4&background=FFFFFF00&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+NepMods+(Arjun)!;Game+Modder+%F0%9F%8E%AE+from+Nepal;Reverse+Engineer+%F0%9F%92%BB;Making+Tech+Fun+%E2%9C%A8" alt="NepMods Typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=900&color=F97CA4&background=FFFFFF00&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+NepMods!;Game+Modder+%F0%9F%8E%AE+from+Nepal;Reverse+Engineer+%F0%9F%92%BB;Making+Tech+Fun+%E2%9C%A8" alt="NepMods Typing"/>
 </p>
 
 <!-- Professional Animated Banner -->
@@ -19,17 +19,17 @@
   <br>
   <b style="font-size: 1.4em; color: #36e200;">🚀 I'm actively seeking new opportunities! Let's work together!</b>
 </p>
+
 <p align="center">
   <a href="mailto:nepmods@proton.me"><img src="https://img.shields.io/badge/Email%20Me-nepmods@proton.me-36e200?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://t.me/CheaterNeverDies"><img src="https://img.shields.io/badge/Telegram-Message%20Me-30b6f6?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://arjunkattel.com.np"><img src="https://img.shields.io/badge/Portfolio-arjunkattel.com.np-ffb6c1?style=for-the-badge&logo=about-dot-me&logoColor=white" /></a>
 </p>
-
 
 <!-- Cute Divider -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=60&section=header&animation=twinkling" width="100%" />
 </p>
+
 <!-- About Section -->
 <table align="center" width="100%">
 <tr>
@@ -38,13 +38,11 @@
 </td>
 <td>
   <ul>
-    <li>🎀 <b>Real Name:</b> Arjun</li>
     <li>👾 <b>Specialties:</b> Game Modding, Reverse Engineering, Creative Coding</li>
     <li>💻 <b>Languages:</b> C/C++, Java, Node.js, Next.js, Python</li>
-    <li>🧑‍🎓 <b>Student & Hobbyist Programmer from Nepal 🇳🇵</b></li>
+    <li>🧑‍💻 <b>Student & Hobbyist Programmer</b></li>
     <li>🔬 <b>Learning:</b> Android Internals, Flutter, Game Engines</li>
     <li>💌 <b>Contact:</b> <a href="mailto:nepmods@proton.me">nepmods@proton.me</a> | <a href="https://t.me/CheaterNeverDies">Telegram</a></li>
-    <li>🌐 <b>Portfolio:</b> <a href="https://arjunkattel.com.np" target="_blank">arjunkattel.com.np</a></li>
   </ul>
 </td>
 <td align="center" width="140">
@@ -57,12 +55,13 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=60&section=footer&animation=twinkling" width="100%" />
 </p>
+
 <!-- Cute Animated Divider -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=fff0f8,ffb6c1&height=3&section=header" width="60%" />
 </p>
 
-<!-- Featured Projects (Badges) -->
+<!-- Featured Projects -->
 <h3 align="center">✨ Featured Projects ✨</h3>
 <p align="center">
   <a href="https://github.com/NepMods/saynaa"><img src="https://img.shields.io/badge/Saynaa-ffb6c1?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -72,12 +71,10 @@
   <a href="https://github.com/NepMods/Android-Mod-Menu"><img src="https://img.shields.io/badge/Android%20Mod%20Menu-ffb6c1?style=for-the-badge&logo=android&logoColor=white"></a>
 </p>
 
-
 <!-- Green Dot Contribution Graph -->
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/NepMods/Nepmods/refs/heads/output/snake.svg" alt="Snake animation" />
-<br>
+  <img src="https://raw.githubusercontent.com/NepMods/Nepmods/refs/heads/output/snake.svg" alt="Snake animation" />
+  <br>
   <sup><span style="font-size:1.4em; color:#36e200;">🟢</span> Green dots = modding activity!</sup>
 </p>
 
@@ -93,8 +90,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=NepMods&show_icons=true&theme=radical" width="410"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NepMods&layout=compact&theme=radical" width="300"/>
 </p>
+
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="http://trophygh.kolioaris.xyz?username=NepMods&theme=radical&margin-w=10" width="80%"/></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="http://trophygh.kolioaris.xyz?username=NepMods&theme=radical&margin-w=10" width="80%"/>
+  </a>
 </p>
 
 <!-- Connect -->
@@ -111,6 +111,7 @@
 <p align="center" style="font-size:1.1em;">
   👽 I am an <b>alien</b> 🛸 (but only because my code is out of this world!)
 </p>
+
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="55" alt="waving" />
 </p>
